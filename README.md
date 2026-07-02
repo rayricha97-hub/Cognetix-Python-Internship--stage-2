@@ -2,23 +2,21 @@
 
 This repository contains the completed tasks for the Intermediate Stage of the Cognetix Python Internship.
 
-## Tasks Completed:
+## Tasks Completed
 
-### 1. Employee Management System (CRUD + DB)
-- **Objective:** Developed a database-driven Python application to manage employee records using SQLite.
-- **Key Features:**
-  - Create, Read, Update, and Delete (CRUD) operations.
-  - Data storage with SQLite database.
-  - Input validation for employee records.
+### 1. Employee Management System
+- Developed a database-driven Python application to manage employee records.
+- *Output:*
+![Employee System Output](<img width="389" height="313" alt="Screenshot 2026-07-02 201801" src="https://github.com/user-attachments/assets/0ceb12bc-73fe-4621-ac0b-fa314414c608" />
+)
 
-### 2. Weather Report Fetcher (API-Based)
-- **Objective:** Built a Python application that fetches real-time weather data from the OpenWeatherMap API.
-- **Key Features:**
-  - Fetches temperature, humidity, and weather conditions.
-  - Handles invalid city names with error messages.
-  - Uses `requests` and `json` libraries for API integration.
+### 2. Weather Report Fetcher
+- Built a Python application that fetches real-time weather data.
+- *Output:*
+![Weather App Output](<img width="328" height="107" alt="Screenshot 2026-07-02 201646" src="https://github.com/user-attachments/assets/4d6e55f6-5b3f-4e1f-922f-1581612b431b" />
+)
 
-## How to Run:
-- Ensure you have Python installed.
-- Install necessary libraries: `pip install requests` (for weather task).
-- Run the respective scripts using `python filename.py`.
+---
+## How to Run
+1. Install requirements: pip install requests
+2. Run scripts: python filename.py
